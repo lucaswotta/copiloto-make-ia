@@ -1,16 +1,15 @@
 # Projeto: Copiloto de IA para Comunicação Interna
 
 ### Vídeo de Apresentação e Demonstração
-*Assista ao vídeo abaixo para uma explicação completa e demonstração do protótipo em funcionamento.*
 
-[Link Youtube Aqui - Pitch]
+[![Assista ao vídeo do projeto](https://img.youtube.com/vi/tS0dHho6s1Y/hqdefault.jpg)](https://youtu.be/tS0dHho6s1Y)
 
 ---
 
 ## 1. Visão Geral do Projeto
 Este projeto, desenvolvido para a disciplina de Fundamentos da IA Generativa, consiste em um protótipo funcional de um assistente de IA para otimizar a criação de textos de comunicação interna. A solução foi criada utilizando uma abordagem low-code/no-code.
 
-* Para uma análise técnica detalhada, consulte o arquivo [ANALISE_TEORICA.md](ANALISE_TEORICA.md).
+* Para uma análise técnica detalhada, consulte o arquivo [ANALISE.md](ANALISE.md).
 
 ## 2. Ferramentas Utilizadas
 * **Entrada de Dados:** Google Forms
